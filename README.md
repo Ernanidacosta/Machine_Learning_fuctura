@@ -1,0 +1,2 @@
+# fuctura
+Códigos em Python
